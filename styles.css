@@ -1,0 +1,41 @@
+.pic{
+    width:440px;
+    height:440px;
+    }
+#death{
+    font-family: 'Gloria Hallelujah', cursive;
+    }
+#god{
+    font-family: 'Permanent Marker', cursive;
+    }
+#drip{
+    font-family: 'Shojumaru', cursive;
+    }
+#panther{
+    font-family: 'Hanalei Fill', cursive;
+    }
+body{
+    background-color:lightsalmon;
+    background:url(https://media.giphy.com/media/3O3LfOhn5XBLO/giphy.gif);
+    background-size:70px;
+    }
+#rip{
+    border:dotted;
+    }
+#legend{
+    font-family: 'Spicy Rice', cursive;
+    font-size:150px;
+    color:gold;
+    }
+li:hover {
+    color:orangered;
+    }
+h1{
+    color:black;
+    background-color:rgba(244,179,66,0.4);
+    }
+    .Bam{
+        font-family: 'Oranienbaum', serif;
+        font-size:50px;
+        color:green;
+        }
